@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Madar Soft Task</string>
+    <string name="there_is_no_data">There is no data</string>
+    <string name="home_screen_text">Home Screen</string>
+    <string name="text_there_is_no_data">There is no data</string>
+    <string name="insert_data">Add Data</string>
+    <string name="form_header">Insert user data</string>
+    <string name="gender_title">Gender</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_age">Age</string>
+    <string name="txt_job_title">Job title</string>
+    <string name="btn_save">Save</string>
+    <string name="radio_female">Female</string>
+    <string name="radio_male">Male</string>
+    <string name="txt_name_card">Name :</string>
+    <string name="txt_age_card">Age :</string>
+    <string name="txt_job_title_card">Job title :</string>
+    <string name="txt_gender_card">Gender :</string>
+</resources>
